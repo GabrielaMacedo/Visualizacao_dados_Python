@@ -4,4 +4,4 @@ Nesse repositório você encontrará códigos autorais e também extraídos da c
 
 Abaixo está a visualização dos códigos deste repositório.
 
-![Gráficos Disponíveis](https://github.com/GabrielaMacedo/Visualizacao_dados_Python/blob/52f8fdc3b3e994b0e39809381694141d8078fa19/visualizacao.png)
+![Gráficos Disponíveis](https://github.com/GabrielaMacedo/Visualizacao_dados_Python/blob/main/visualizacao.png)
